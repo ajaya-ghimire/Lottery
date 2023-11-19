@@ -28,7 +28,7 @@ int main()
     if (number_found)
         cout << "Winner!!" << endl;
     else
-        cout << "Sorry! Not a winning numbers." << endl;
+        cout << "Sorry! Not a winning number." << endl;
 
 
     return 0;
